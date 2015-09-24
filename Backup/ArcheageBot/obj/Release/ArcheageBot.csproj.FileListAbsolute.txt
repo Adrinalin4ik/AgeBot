@@ -1,0 +1,220 @@
+J:\master переделанный\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe.config
+J:\master переделанный\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe
+J:\master переделанный\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.pdb
+J:\master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form1.resources
+J:\master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Properties.Resources.resources
+J:\master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.csproj.GenerateResource.Cache
+J:\master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.exe
+J:\master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.pdb
+J:\master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.csprojResolveAssemblyReference.cache
+D:\master переделанный\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe.config
+D:\master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.exe
+D:\master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.pdb
+D:\master переделанный\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe
+D:\master переделанный\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.pdb
+D:\master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.csprojResolveAssemblyReference.cache
+D:\master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form1.resources
+D:\master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Properties.Resources.resources
+D:\master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\master переделанный\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe.config
+C:\Users\Алексей\Desktop\master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.exe
+C:\Users\Алексей\Desktop\master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.pdb
+C:\Users\Алексей\Desktop\master переделанный\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe
+C:\Users\Алексей\Desktop\master переделанный\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.pdb
+C:\Users\Алексей\Desktop\master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form1.resources
+C:\Users\Алексей\Desktop\master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form2.resources
+C:\Users\Алексей\Desktop\master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Properties.Resources.resources
+C:\Users\Алексей\Desktop\master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\1master переделанный\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe.config
+C:\Users\Алексей\Desktop\1master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.exe
+C:\Users\Алексей\Desktop\1master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.pdb
+C:\Users\Алексей\Desktop\1master переделанный\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe
+C:\Users\Алексей\Desktop\1master переделанный\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.pdb
+C:\Users\Алексей\Desktop\1master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\1master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form1.resources
+C:\Users\Алексей\Desktop\1master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form2.resources
+C:\Users\Алексей\Desktop\1master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Properties.Resources.resources
+C:\Users\Алексей\Desktop\1master переделанный\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\Bot mastera\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe.config
+C:\Users\Алексей\Desktop\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.exe
+C:\Users\Алексей\Desktop\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.pdb
+C:\Users\Алексей\Desktop\Bot mastera\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe
+C:\Users\Алексей\Desktop\Bot mastera\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.pdb
+C:\Users\Алексей\Desktop\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form1.resources
+C:\Users\Алексей\Desktop\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form2.resources
+C:\Users\Алексей\Desktop\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Рабочий стол\Bot mastera\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe.config
+C:\Documents and Settings\Admin\Рабочий стол\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.exe
+C:\Documents and Settings\Admin\Рабочий стол\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Bot mastera\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe
+C:\Documents and Settings\Admin\Рабочий стол\Bot mastera\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form2.resources
+C:\Documents and Settings\Admin\Рабочий стол\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\GenerateResource.write.1.tlog
+D:\Bot mastera\Bot mastera\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe.config
+D:\Bot mastera\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.exe
+D:\Bot mastera\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.pdb
+D:\Bot mastera\Bot mastera\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe
+D:\Bot mastera\Bot mastera\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.pdb
+D:\Bot mastera\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.csprojResolveAssemblyReference.cache
+D:\Bot mastera\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form1.resources
+D:\Bot mastera\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form2.resources
+D:\Bot mastera\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Properties.Resources.resources
+D:\Bot mastera\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.csproj.GenerateResource.Cache
+D:\Bot mastera\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form3.resources
+F:\Bot mastera\Bot mastera\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe.config
+F:\Bot mastera\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.exe
+F:\Bot mastera\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.pdb
+F:\Bot mastera\Bot mastera\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe
+F:\Bot mastera\Bot mastera\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.pdb
+F:\Bot mastera\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ResolveAssemblyReference.cache
+F:\Bot mastera\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form1.resources
+F:\Bot mastera\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form2.resources
+F:\Bot mastera\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form3.resources
+F:\Bot mastera\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Properties.Resources.resources
+F:\Bot mastera\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\GenerateResource.read.1.tlog
+F:\Bot mastera\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Bot mastera\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form3.resources
+C:\Documents and Settings\Admin\Рабочий стол\Bot masteraфлешка\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe.config
+C:\Documents and Settings\Admin\Рабочий стол\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.exe
+C:\Documents and Settings\Admin\Рабочий стол\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Bot masteraфлешка\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe
+C:\Documents and Settings\Admin\Рабочий стол\Bot masteraфлешка\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.pdb
+C:\Documents and Settings\Admin\Рабочий стол\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form2.resources
+C:\Documents and Settings\Admin\Рабочий стол\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form3.resources
+C:\Documents and Settings\Admin\Рабочий стол\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\GenerateResource.write.1.tlog
+J:\Bot masteraфлешка\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe.config
+J:\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.exe
+J:\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.pdb
+C:\Users\Алексей\Desktop\Bot masteraфлешка\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe.config
+C:\Users\Алексей\Desktop\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.exe
+C:\Users\Алексей\Desktop\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.pdb
+C:\Users\Алексей\Desktop\Bot masteraфлешка\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe
+C:\Users\Алексей\Desktop\Bot masteraфлешка\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.pdb
+C:\Users\Алексей\Desktop\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form1.resources
+C:\Users\Алексей\Desktop\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form2.resources
+C:\Users\Алексей\Desktop\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form3.resources
+C:\Users\Алексей\Desktop\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.csproj.GenerateResource.Cache
+J:\Bot masteraфлешка\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe
+J:\Bot masteraфлешка\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.pdb
+J:\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.csprojResolveAssemblyReference.cache
+J:\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form1.resources
+J:\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form2.resources
+J:\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form3.resources
+J:\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Properties.Resources.resources
+J:\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.csproj.GenerateResource.Cache
+C:\Documents and Settings\Admin\Рабочий стол\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe.config
+C:\Documents and Settings\Admin\Рабочий стол\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.exe
+C:\Documents and Settings\Admin\Рабочий стол\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.pdb
+C:\Documents and Settings\Admin\Рабочий стол\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe
+C:\Documents and Settings\Admin\Рабочий стол\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.pdb
+C:\Documents and Settings\Admin\Рабочий стол\archeagebot-master\ArcheageBot\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form2.resources
+C:\Documents and Settings\Admin\Рабочий стол\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form3.resources
+C:\Documents and Settings\Admin\Рабочий стол\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\archeagebot-master\ArcheageBot\obj\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\archeagebot-master\ArcheageBot\obj\Release\GenerateResource.write.1.tlog
+D:\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe.config
+D:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.exe
+D:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.pdb
+D:\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe
+D:\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.pdb
+D:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.csprojResolveAssemblyReference.cache
+D:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form1.resources
+D:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form2.resources
+D:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form3.resources
+D:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Properties.Resources.resources
+D:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe.config
+C:\Users\Алексей\Desktop\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.exe
+C:\Users\Алексей\Desktop\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.pdb
+C:\Users\Алексей\Desktop\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form1.resources
+C:\Users\Алексей\Desktop\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form2.resources
+C:\Users\Алексей\Desktop\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form3.resources
+C:\Users\Алексей\Desktop\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Properties.Resources.resources
+C:\Users\Алексей\Desktop\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe
+C:\Users\Алексей\Desktop\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.pdb
+F:\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe.config
+F:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.exe
+F:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.pdb
+F:\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe
+F:\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.pdb
+F:\archeagebot-master\ArcheageBot\obj\Release\ResolveAssemblyReference.cache
+F:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form1.resources
+F:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form2.resources
+F:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form3.resources
+F:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Properties.Resources.resources
+F:\archeagebot-master\ArcheageBot\obj\Release\GenerateResource.read.1.tlog
+F:\archeagebot-master\ArcheageBot\obj\Release\GenerateResource.write.1.tlog
+F:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form4.resources
+D:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form4.resources
+C:\Users\Алексей\Desktop\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form4.resources
+L:\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe.config
+L:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.exe
+L:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.pdb
+L:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.csprojResolveAssemblyReference.cache
+L:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form1.resources
+L:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form2.resources
+L:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form3.resources
+L:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Form4.resources
+L:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.Properties.Resources.resources
+L:\archeagebot-master\ArcheageBot\obj\Release\ArcheageBot.csproj.GenerateResource.Cache
+L:\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.exe
+L:\archeagebot-master\ArcheageBot\bin\Release\ArcheageBot.pdb
+C:\Users\Алексей\Desktop\agebot\ArcheageBot\bin\Release\ArcheageBot.exe.config
+C:\Users\Алексей\Desktop\agebot\ArcheageBot\obj\Release\ArcheageBot.exe
+C:\Users\Алексей\Desktop\agebot\ArcheageBot\obj\Release\ArcheageBot.pdb
+C:\Users\Алексей\Desktop\agebot\ArcheageBot\bin\Release\ArcheageBot.exe
+C:\Users\Алексей\Desktop\agebot\ArcheageBot\bin\Release\ArcheageBot.pdb
+C:\Users\Алексей\Desktop\agebot\ArcheageBot\obj\Release\ArcheageBot.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Desktop\agebot\ArcheageBot\obj\Release\ArcheageBot.Form1.resources
+C:\Users\Алексей\Desktop\agebot\ArcheageBot\obj\Release\ArcheageBot.Form2.resources
+C:\Users\Алексей\Desktop\agebot\ArcheageBot\obj\Release\ArcheageBot.Form3.resources
+C:\Users\Алексей\Desktop\agebot\ArcheageBot\obj\Release\ArcheageBot.Form4.resources
+C:\Users\Алексей\Desktop\agebot\ArcheageBot\obj\Release\ArcheageBot.Properties.Resources.resources
+C:\Users\Алексей\Desktop\agebot\ArcheageBot\obj\Release\ArcheageBot.csproj.GenerateResource.Cache
+D:\Программы C#\agebot\ArcheageBot\bin\Release\ArcheageBot.exe.config
+D:\Программы C#\agebot\ArcheageBot\obj\Release\ArcheageBot.exe
+D:\Программы C#\agebot\ArcheageBot\obj\Release\ArcheageBot.pdb
+D:\Программы C#\agebot\ArcheageBot\bin\Release\ArcheageBot.exe
+D:\Программы C#\agebot\ArcheageBot\bin\Release\ArcheageBot.pdb
+D:\Программы C#\agebot\ArcheageBot\obj\Release\ArcheageBot.csprojResolveAssemblyReference.cache
+D:\Программы C#\agebot\ArcheageBot\obj\Release\ArcheageBot.Form1.resources
+D:\Программы C#\agebot\ArcheageBot\obj\Release\ArcheageBot.Form2.resources
+D:\Программы C#\agebot\ArcheageBot\obj\Release\ArcheageBot.Form3.resources
+D:\Программы C#\agebot\ArcheageBot\obj\Release\ArcheageBot.Form4.resources
+D:\Программы C#\agebot\ArcheageBot\obj\Release\ArcheageBot.Properties.Resources.resources
+D:\Программы C#\agebot\ArcheageBot\obj\Release\ArcheageBot.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\agebot\ArcheageBot\bin\Release\ArcheageBot.exe.config
+C:\Users\Alex\Desktop\agebot\ArcheageBot\obj\Release\ArcheageBot.exe
+C:\Users\Alex\Desktop\agebot\ArcheageBot\obj\Release\ArcheageBot.pdb
+C:\Users\Alex\Desktop\agebot\ArcheageBot\bin\Release\ArcheageBot.exe
+C:\Users\Alex\Desktop\agebot\ArcheageBot\bin\Release\ArcheageBot.pdb
+C:\Users\Alex\Desktop\agebot\ArcheageBot\obj\Release\ArcheageBot.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\agebot\ArcheageBot\obj\Release\ArcheageBot.Form1.resources
+C:\Users\Alex\Desktop\agebot\ArcheageBot\obj\Release\ArcheageBot.Form2.resources
+C:\Users\Alex\Desktop\agebot\ArcheageBot\obj\Release\ArcheageBot.Form3.resources
+C:\Users\Alex\Desktop\agebot\ArcheageBot\obj\Release\ArcheageBot.Form4.resources
+C:\Users\Alex\Desktop\agebot\ArcheageBot\obj\Release\ArcheageBot.Properties.Resources.resources
+C:\Users\Alex\Desktop\agebot\ArcheageBot\obj\Release\ArcheageBot.csproj.GenerateResource.Cache
+C:\Users\Alex\Desktop\agebot\ArcheageBot\obj\Release\ArcheageBot.Form5.resources
+C:\Users\Alex\Desktop\AgeBot\ArcheageBot\bin\Release\ArcheageBot.exe.manifest
+C:\Users\Alex\Desktop\AgeBot\ArcheageBot\bin\Release\ArcheageBot.application
+C:\Users\Alex\Desktop\AgeBot\ArcheageBot\obj\Release\ArcheageBot.TrustInfo.xml
+C:\Users\Alex\Desktop\AgeBot\ArcheageBot\obj\Release\ArcheageBot.exe.manifest
+C:\Users\Alex\Desktop\AgeBot\ArcheageBot\obj\Release\ArcheageBot.application

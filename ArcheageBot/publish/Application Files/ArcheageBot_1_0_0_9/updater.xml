@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ConfigurationFile>
+  <UpdateServerVersionsUrl>http://www.aabot.zyro.com/gallery/files/version.file</UpdateServerVersionsUrl>
+  <UpdateServerMainExeUrl>http://aabot.zabix.net/trialdata.exe</UpdateServerMainExeUrl>
+  <LocalMainExe>trialdata.exe</LocalMainExe>
+  <Version>15</Version>
+</ConfigurationFile>

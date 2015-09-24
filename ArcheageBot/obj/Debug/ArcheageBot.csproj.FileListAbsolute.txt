@@ -1,0 +1,40 @@
+C:\Documents and Settings\Admin\Рабочий стол\archeagebot-master\ArcheageBot\bin\Debug\ArcheageBot.exe.config
+C:\Documents and Settings\Admin\Рабочий стол\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.exe
+C:\Documents and Settings\Admin\Рабочий стол\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.pdb
+C:\Documents and Settings\Admin\Рабочий стол\archeagebot-master\ArcheageBot\bin\Debug\ArcheageBot.exe
+C:\Documents and Settings\Admin\Рабочий стол\archeagebot-master\ArcheageBot\bin\Debug\ArcheageBot.pdb
+C:\Documents and Settings\Admin\Рабочий стол\archeagebot-master\ArcheageBot\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Admin\Рабочий стол\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.Form1.resources
+C:\Documents and Settings\Admin\Рабочий стол\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.Properties.Resources.resources
+C:\Documents and Settings\Admin\Рабочий стол\archeagebot-master\ArcheageBot\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Admin\Рабочий стол\archeagebot-master\ArcheageBot\obj\Debug\GenerateResource.write.1.tlog
+J:\master переделанный\archeagebot-master\ArcheageBot\bin\Debug\ArcheageBot.exe.config
+J:\master переделанный\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.exe
+J:\master переделанный\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.pdb
+J:\master переделанный\archeagebot-master\ArcheageBot\bin\Debug\ArcheageBot.exe
+J:\master переделанный\archeagebot-master\ArcheageBot\bin\Debug\ArcheageBot.pdb
+J:\master переделанный\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.Form1.resources
+J:\master переделанный\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.Properties.Resources.resources
+J:\master переделанный\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.csproj.GenerateResource.Cache
+C:\Users\Алексей\Desktop\Bot mastera\archeagebot-master\ArcheageBot\bin\Debug\ArcheageBot.exe.config
+C:\Users\Алексей\Desktop\Bot mastera\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.exe
+C:\Users\Алексей\Desktop\Bot mastera\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.pdb
+C:\Users\Алексей\Desktop\Bot mastera\archeagebot-master\ArcheageBot\bin\Debug\ArcheageBot.exe
+C:\Users\Алексей\Desktop\Bot mastera\archeagebot-master\ArcheageBot\bin\Debug\ArcheageBot.pdb
+C:\Users\Алексей\Desktop\Bot mastera\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.Form1.resources
+C:\Users\Алексей\Desktop\Bot mastera\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.Form2.resources
+C:\Users\Алексей\Desktop\Bot mastera\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Bot mastera\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.csproj.GenerateResource.Cache
+J:\Bot masteraфлешка\archeagebot-master\ArcheageBot\bin\Debug\ArcheageBot.exe.config
+J:\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.exe
+J:\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.pdb
+C:\Users\Алексей\Desktop\Bot masteraфлешка\archeagebot-master\ArcheageBot\bin\Debug\ArcheageBot.exe.config
+C:\Users\Алексей\Desktop\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.exe
+C:\Users\Алексей\Desktop\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.pdb
+C:\Users\Алексей\Desktop\Bot masteraфлешка\archeagebot-master\ArcheageBot\bin\Debug\ArcheageBot.exe
+C:\Users\Алексей\Desktop\Bot masteraфлешка\archeagebot-master\ArcheageBot\bin\Debug\ArcheageBot.pdb
+C:\Users\Алексей\Desktop\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.Form1.resources
+C:\Users\Алексей\Desktop\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.Form2.resources
+C:\Users\Алексей\Desktop\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.Form3.resources
+C:\Users\Алексей\Desktop\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.Properties.Resources.resources
+C:\Users\Алексей\Desktop\Bot masteraфлешка\archeagebot-master\ArcheageBot\obj\Debug\ArcheageBot.csproj.GenerateResource.Cache

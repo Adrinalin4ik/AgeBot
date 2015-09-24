@@ -1,0 +1,60 @@
+
+if ((mob == false) && ((Hero.Health < 230) || (Hero.Mana < 230)))
+            {
+                SendMessageA(Program.Archeage, (int)Keyboard.WMessages.WM_KEYDOWN, (IntPtr)System.Windows.Forms.Keys.D7, (IntPtr)0);
+                System.Threading.Thread.Sleep(50);
+                SendMessageA(Program.Archeage, (int)Keyboard.WMessages.WM_KEYUP, (IntPtr)System.Windows.Forms.Keys.D7, (IntPtr)0);
+                    
+            }
+
+
+
+
+   int a;
+            int b;
+            int h;
+
+            a = 0;
+            b = 0;
+            h = 0;
+            StreamReader sr = new StreamReader("C:\\setting.txt");
+            string line;
+            while (!sr.EndOfStream)
+            {
+                line = sr.ReadLine();
+                if (a == 0)
+                {
+                    cs = Convert.ToInt32(line);
+                    a = 1;
+                }
+                if (b == 0)
+                {
+                    xs = Convert.ToInt32(line);
+                    b = 1;
+                }
+                if (h == 0)
+                {
+                    ys = Convert.ToInt32(line);
+                    h = 1;
+                }
+                //бла-бла-бла
+            }
+            sr.Close();
+            //// из int в hex
+            byte[] data = BitConverter.GetBytes(cs);
+            Array.Reverse(data);
+            string hex = BitConverter.ToString(data).TrimStart(new char[] { '0', '-' });
+            
+           
+            //из hex в ARGB
+            ColorConverter x = new ColorConverter();
+            Color c = (Color)x.ConvertFrom("0x" + hex);
+             ///////
+            Color CurrentColor;
+            
+            CurrentColor = ScreenCapture.LockBitmap.Screen.GetPixel(xs,ys);
+
+            if (CurrentColor == c)
+            {
+                Hero.Target = true;
+            }
